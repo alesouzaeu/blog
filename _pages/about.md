@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre Mim
+title: Sobre
 permalink: /about/
 ---
 
