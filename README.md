@@ -6,8 +6,7 @@
 
 https://alesouzaeu.github.io/blog/
 
-# My Blog
-
+# Meu blog sobre Data Science
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
