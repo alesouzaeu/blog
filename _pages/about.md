@@ -4,7 +4,8 @@ title: Sobre
 permalink: /about/
 ---
 
-<img src="alessandro.png" width="200">
+![](/alessandro.png)
+
 
 Sou profissional multidisciplinar, comunicador e gestor de pessoas.  
 Com longa experiência em mídia e difusão, tenho me dedicado aplicar   
